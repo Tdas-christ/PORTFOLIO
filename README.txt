@@ -1,17 +1,34 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+# My Portfolio Website
 
-Product Page: https://wwww.devcrud.com/
+Welcome to my portfolio website! This website showcases my skills, projects, and experience in web development and related technologies.
 
-Credits:
+## Features
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+- Single page design with smooth navigation.
+- Sections for About Me, Skills, Projects, and Contact.
+- Interactive skills section with hover-over descriptions.
+- Responsive layout for optimal viewing on various devices.
+- Contact form for communication.
 
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
+## Technologies Used
 
-	Other:
-		jQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
+- HTML5 and CSS3 for structure and styling.
+- JavaScript for interactivity and dynamic content.
+- Bootstrap framework for responsive design.
+- Various libraries and tools for specific functionalities.
+
+## Getting Started
+
+## Usage
+
+Feel free to explore the website to learn more about my skills, projects, and experience. You can navigate through different sections using the menu bar and interact with the content as needed. Don't hesitate to reach out via the contact form for inquiries or collaboration opportunities.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to [OpenAI](https://openai.com) for providing the ChatGPT model used to generate this README.
+
 
