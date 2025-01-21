@@ -23,12 +23,6 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 
 Feel free to explore the website to learn more about my skills, projects, and experience. You can navigate through different sections using the menu bar and interact with the content as needed. Don't hesitate to reach out via the contact form for inquiries or collaboration opportunities.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to [OpenAI](https://openai.com) for providing the ChatGPT model used to generate this README.
 
 
